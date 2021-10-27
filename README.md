@@ -7,6 +7,7 @@ Parfois, il arrive que le répertoire "ressources" où nous stockons le fichier 
 Le fichier qui contient les informations des tondeuses se trouve dans **ressources -> scala.txt**
 
 ## Enoncé du projet :
+![image](https://user-images.githubusercontent.com/88337469/139060547-6e12ac7b-59a8-49e5-ae2f-d6ac8c140a68.png)
 
 La société MowItNow a décidé de développer une tondeuse à gazon automatique,
 destinée aux surfaces rectangulaires.
