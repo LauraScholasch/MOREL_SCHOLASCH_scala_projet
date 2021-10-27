@@ -4,10 +4,18 @@ Pour éxecuter le projet, vous pouvez **importer le projet dans IntelliJ IDEA, d
 
 Parfois, il arrive que le répertoire "ressources" où nous stockons le fichier texte contenant les instructions redevient un dossier basique et nécessite donc d'être redéfini comme "ressource" pour pouvoir faire appel au fichier texte.
 
+Exemple :
+![image](https://user-images.githubusercontent.com/88337469/139060680-5dcd4b3d-715d-46cb-89dd-c5cabf32ec19.png)
+
+Il suffira de modifier le type de dossier comme ceci :
+
+![image](https://user-images.githubusercontent.com/88337469/139061925-f58aa7ba-89fd-4272-9e6f-a048d791ece4.png)
+
+Le script devrait être à présent capable de lire le fichier texte.
+
 Le fichier qui contient les informations des tondeuses se trouve dans **ressources -> scala.txt**
 
 ## Enoncé du projet :
-![image](https://user-images.githubusercontent.com/88337469/139060547-6e12ac7b-59a8-49e5-ae2f-d6ac8c140a68.png)
 
 La société MowItNow a décidé de développer une tondeuse à gazon automatique,
 destinée aux surfaces rectangulaires.
