@@ -2,9 +2,12 @@
 
 Pour éxecuter le projet, vous pouvez **importer le projet dans IntelliJ IDEA, définissez le projet JDK ainsi le scala SDK que vous souhaitez.**
 
+Le fichier qui contient les informations des tondeuses se trouve dans **ressources -> scala.txt**
+
 Parfois, il arrive que le répertoire "ressources" où nous stockons le fichier texte contenant les instructions redevient un dossier basique et nécessite donc d'être redéfini comme "ressource" pour pouvoir faire appel au fichier texte.
 
 Exemple :
+
 ![image](https://user-images.githubusercontent.com/88337469/139060680-5dcd4b3d-715d-46cb-89dd-c5cabf32ec19.png)
 
 Il suffira de modifier le type de dossier comme ceci :
@@ -13,7 +16,6 @@ Il suffira de modifier le type de dossier comme ceci :
 
 Le script devrait être à présent capable de lire le fichier texte.
 
-Le fichier qui contient les informations des tondeuses se trouve dans **ressources -> scala.txt**
 
 ## Enoncé du projet :
 
